@@ -1,2 +1,0 @@
-# AngularFun
-# YAYAYA222
