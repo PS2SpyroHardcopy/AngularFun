@@ -1,4 +1,4 @@
-# build production ng build --prod --aot
+# build production == ng build --prod --aot
 # deploy to firebase firebase deploy
 # local server ng serve
 # main.ts entry point for angular and create your own module, app module is being bootstrapped
@@ -11,4 +11,4 @@
 *.component.html has template
 *.component.ts has selector and css
 
-# video 28:21
+# video 40:23

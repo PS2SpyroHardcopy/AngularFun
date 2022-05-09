@@ -1,6 +1,6 @@
 import { Task } from "./Task";// import the task TYPE for use
 
-export const TASKS: Task[] = [
+export const TASKS: Task[] = [// Creating a Task interface to follow a format I guess?
     {
       "id": 1,
       "text": "Doctors Appointment",
